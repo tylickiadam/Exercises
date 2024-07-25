@@ -3,10 +3,4 @@ import { writeAndRead } from "./util.js";
 import { DEFAULT_RESPONSE } from "./default.js";
 
 
-console.log(
-  `
-  ########################################################
-  Ćwiczenia
-  ########################################################
-  `
-);
+console.log(  `####  Ćwiczenia  #####`);
